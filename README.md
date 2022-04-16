@@ -1,5 +1,5 @@
 # LeetCode
-
+[链表](#链表)
 ## 链表
 [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
