@@ -13,6 +13,8 @@
 
 [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 
+[92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+
 [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
