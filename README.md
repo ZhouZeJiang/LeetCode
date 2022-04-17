@@ -1,5 +1,30 @@
 # LeetCode
 [链表](#链表)
+
+
+## 哈希
+[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+[3. 无重复字符的最长子串](m/problems/longest-substring-without-repeating-characters/)
+
+[13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
+
+[36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+
+[217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
+
+[349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+
+[454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
+
+[剑指 Offer II 010. 和为 k 的子数组](https://leetcode-cn.com/problems/QTMn0o/)
+
+[剑指 Offer II 011. 0 和 1 个数相同的](https://leetcode-cn.com/problems/A1NYOS/)
+
+[面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
+
+
+
 ## 链表
 [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
