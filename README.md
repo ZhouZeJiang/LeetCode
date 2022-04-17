@@ -46,6 +46,8 @@
 
 [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 
+[138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+
 [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
