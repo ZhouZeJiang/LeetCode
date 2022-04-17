@@ -31,6 +31,8 @@
 
 [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 
+[328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+
 [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
 [1721. 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
