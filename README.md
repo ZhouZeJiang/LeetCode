@@ -17,7 +17,7 @@
 
 [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
 
-[146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/)
+[146. LRU 缓存-未AC](https://leetcode-cn.com/problems/lru-cache/)
 
 [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
