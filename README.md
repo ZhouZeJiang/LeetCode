@@ -13,6 +13,8 @@
 
 [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
+[143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+
 [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
 [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
