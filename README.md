@@ -3,7 +3,13 @@
 
 [哈希](#哈希)
 
+[位运算](#位运算)
+
 [滑动窗口](#滑动窗口)
+
+
+## 位运算
+[136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
 ## 滑动窗口
 [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
