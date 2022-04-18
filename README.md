@@ -38,9 +38,6 @@
 
 [剑指 Offer II 011. 0 和 1 个数相同的](https://leetcode-cn.com/problems/A1NYOS/)
 
-[面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
-
-
 
 ## 链表
 [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
