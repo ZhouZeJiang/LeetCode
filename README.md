@@ -70,6 +70,8 @@
 
 [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
+[1171. 从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
+
 [1721. 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/)
 
 [剑指 Offer 06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
