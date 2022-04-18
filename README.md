@@ -11,6 +11,8 @@
 ## 位运算
 [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
+[面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
+
 ## 滑动窗口
 [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
