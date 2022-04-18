@@ -7,7 +7,7 @@
 ## 哈希
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
-[3. 无重复字符的最长子串](m/problems/longest-substring-without-repeating-characters/)
+[3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
 
