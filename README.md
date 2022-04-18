@@ -8,6 +8,8 @@
 ## 滑动窗口
 [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
+[187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)
+
 
 ## 哈希
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
