@@ -27,6 +27,8 @@
 
 [342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)
 
+[371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
+
 [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
 
 [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
