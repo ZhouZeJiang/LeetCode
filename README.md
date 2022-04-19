@@ -13,6 +13,8 @@
 
 [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
 
+[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
+
 [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
 
 [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
