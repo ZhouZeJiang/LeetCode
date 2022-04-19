@@ -21,6 +21,12 @@
 
 [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
 
+[268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
+
+[338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
+
+[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)
+
 [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
 
 ## 滑动窗口
