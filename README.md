@@ -13,6 +13,10 @@
 
 [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
 
+[190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+
+[191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+
 [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
 
 [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
@@ -93,4 +97,5 @@
 [剑指 Offer 06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 
 [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
+
 
