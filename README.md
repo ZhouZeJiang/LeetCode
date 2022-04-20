@@ -9,6 +9,12 @@
 
 [滑动窗口](#滑动窗口)
 
+[数组快慢指针](#数组快慢指针)
+
+
+## 数组快慢指针
+[287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+
 
 ## 位运算
 [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
