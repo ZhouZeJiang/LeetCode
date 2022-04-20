@@ -16,6 +16,12 @@
 ## 栈
 [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
+[155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
+
+[232. 用栈实现队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%88)
+
+[面试题 03.01. 三合一](https://leetcode-cn.com/submissions/detail/302999251/)
+
 ## 链表
 [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
