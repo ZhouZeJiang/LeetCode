@@ -1,75 +1,20 @@
 # LeetCode
 
+[栈](#栈)
 
 [链表](#链表) 
 
 [哈希](#哈希)
 
+[数组快慢指针](#数组快慢指针)
+
 [位运算](#位运算)
 
 [滑动窗口](#滑动窗口)
 
-[数组快慢指针](#数组快慢指针)
 
-
-## 数组快慢指针
-[287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
-
-
-## 位运算
-[67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
-
-[136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
-
-[137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
-
-[190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
-
-[191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
-
-[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
-
-[260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
-
-[268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
-
-[338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
-
-[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)
-
-[371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
-
-[405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
-
-[476. 数字的补数](https://leetcode-cn.com/problems/number-complement/)
-
-[面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
-
-## 滑动窗口
-[3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
-
-[187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)
-
-
-## 哈希
-[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
-
-[13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
-
-[15. 三数之和](https://leetcode-cn.com/problems/3sum/)
-
-[36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
-
-[217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
-
-[349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
-
-[454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
-
-[剑指 Offer II 010. 和为 k 的子数组](https://leetcode-cn.com/problems/QTMn0o/)
-
-[剑指 Offer II 011. 0 和 1 个数相同的](https://leetcode-cn.com/problems/A1NYOS/)
-
+## 栈
+[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
 ## 链表
 [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
@@ -119,5 +64,68 @@
 [剑指 Offer 06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 
 [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
+
+## 哈希
+[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+[13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
+
+[15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+
+[36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+
+[217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
+
+[349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+
+[454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
+
+[剑指 Offer II 010. 和为 k 的子数组](https://leetcode-cn.com/problems/QTMn0o/)
+
+[剑指 Offer II 011. 0 和 1 个数相同的](https://leetcode-cn.com/problems/A1NYOS/)
+
+
+
+## 数组快慢指针
+[287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+
+
+## 位运算
+[67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+
+[136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+
+[137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)
+
+[190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+
+[191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+
+[231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
+
+[260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
+
+[268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
+
+[338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
+
+[342. 4的幂](https://leetcode-cn.com/problems/power-of-four/)
+
+[371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
+
+[405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
+
+[476. 数字的补数](https://leetcode-cn.com/problems/number-complement/)
+
+[面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/)
+
+## 滑动窗口
+[3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
+[187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)
+
+
+
+
 
 
