@@ -97,6 +97,8 @@
 
 
 ## 位运算
+[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+
 [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
 
 [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
