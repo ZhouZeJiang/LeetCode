@@ -22,6 +22,8 @@
 
 [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
 
+[496. 下一个更大元素 I()](https://leetcode-cn.com/problems/next-greater-element-i/)
+
 [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 [面试题 03.01. 三合一](https://leetcode-cn.com/submissions/detail/302999251/)
