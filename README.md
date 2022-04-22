@@ -30,9 +30,11 @@
 
 [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
-[面试题 03.01. 三合一](https://leetcode-cn.com/submissions/detail/302999251/)
-
 [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+
+[1475. 商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+
+[面试题 03.01. 三合一](https://leetcode-cn.com/submissions/detail/302999251/)
 
 ## 链表
 [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
