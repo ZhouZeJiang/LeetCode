@@ -20,6 +20,8 @@
 
 [232. 用栈实现队列](https://github.com/SharingSource/LogicStack-LeetCode/wiki/%E6%A0%88)
 
+[316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+
 [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
 
 [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)
