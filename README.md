@@ -92,6 +92,8 @@
 ## 树
 [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
+[543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+
 ## 哈希
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
