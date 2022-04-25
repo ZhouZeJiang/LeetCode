@@ -94,6 +94,8 @@
 
 [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
+[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
 [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
