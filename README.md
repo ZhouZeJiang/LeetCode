@@ -4,6 +4,8 @@
 
 [链表](#链表) 
 
+[树](#树)
+
 [哈希](#哈希)
 
 [数组快慢指针](#数组快慢指针)
@@ -86,6 +88,9 @@
 [剑指 Offer 06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 
 [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
+
+## 树
+[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
 ## 哈希
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
