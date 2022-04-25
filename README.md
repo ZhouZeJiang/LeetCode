@@ -92,9 +92,11 @@
 ## 树
 [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 
-[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-()binary-tree/)
 
 [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
+[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 
 [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 
