@@ -90,6 +90,8 @@
 [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
 
 ## 树
+[101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+
 [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
