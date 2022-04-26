@@ -94,6 +94,10 @@
 
 [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-()binary-tree/)
 
+[110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+[112. 路径总和](112. 路径总和)
+
 [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 
 [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
