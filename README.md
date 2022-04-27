@@ -112,6 +112,8 @@
 
 [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 
+[404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 
 [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
