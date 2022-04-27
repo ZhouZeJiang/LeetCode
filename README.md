@@ -116,6 +116,8 @@
 
 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 
+[617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+
 [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
 
 [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
