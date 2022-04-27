@@ -100,7 +100,7 @@
 
 [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 
-[112. 路径总和](112. 路径总和)
+[112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
 
 [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 
