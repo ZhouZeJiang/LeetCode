@@ -126,6 +126,8 @@
 
 [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
 
+[面试题 04.10. 检查子树](https://leetcode-cn.com/problems/check-subtree-lcci/)
+
 ## 哈希
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
