@@ -14,6 +14,8 @@
 
 [滑动窗口](#滑动窗口)
 
+[贪心算法](#贪心算法)
+
 
 ## 栈
 [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
@@ -187,8 +189,8 @@
 
 [187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)
 
-
-
+## 贪心算法
+[455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 
 
 
