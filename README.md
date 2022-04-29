@@ -10,7 +10,7 @@
 
 [哈希](#哈希)
 
-[数组快慢指针](#数组快慢指针)
+[双指针](#双指针)
 
 [位运算](#位运算)
 
@@ -154,8 +154,12 @@
 
 [剑指 Offer II 011. 0 和 1 个数相同的](https://leetcode-cn.com/problems/A1NYOS/)
 
-## 数组快慢指针
+## 双指针
+[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+
 [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+
+[977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
 
 ## 位运算
