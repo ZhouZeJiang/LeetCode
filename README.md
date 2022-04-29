@@ -6,6 +6,8 @@
 
 [树](#树)
 
+[排序](#排序)
+
 [哈希](#哈希)
 
 [数组快慢指针](#数组快慢指针)
@@ -129,6 +131,9 @@
 [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
 
 [面试题 04.10. 检查子树](https://leetcode-cn.com/problems/check-subtree-lcci/)
+
+## 排序
+[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 
 ## 哈希
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
